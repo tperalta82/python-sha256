@@ -12,6 +12,7 @@ Authors
 The orignal author was Thomas Dixon for a python version of this code.
 Sam Rushing added the midstate access and converted it to Cython_.
 Nigel Drego added the context state setter/getter.
+Tiago Peralta cythonized with 0.29.1 so it works with python 3.9
 
 LICENSE
 =======
